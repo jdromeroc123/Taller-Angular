@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=B612');
+
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: #00b7ff;
+    font-size: 10 px;
+}
+
+.series{
+    
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto;
+    font-family: "B612";
+    font-size: 18px;
+  }
+
+.promedio{
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.series {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-left:auto; 
+    margin-right:auto;
+}
+.series thead th {
+    background-color: #DDEFEF;
+    border: solid 1px #DDEEEE;
+    color: #336B6B;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #fff;
+}
+.series tbody td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #fff;
+}
